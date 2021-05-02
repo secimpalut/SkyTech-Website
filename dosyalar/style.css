@@ -1,0 +1,14 @@
+.baslik {
+  font-size: 3.3em;
+  color: black;
+}
+
+.navbar-brand {
+  font-size: 1.3em;
+  font-weight: 600;
+  padding: 0;
+}
+
+.solpad {
+  padding-left: 20px;
+}
